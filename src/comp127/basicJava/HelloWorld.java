@@ -1,4 +1,4 @@
-package comp127;
+package comp127.basicJava;
 
 /**
  * File: HelloWorld.java
